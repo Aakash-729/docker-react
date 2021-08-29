@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Hi there! This is my first react app!</p>
+        <p>Some more change to observer travis ci behaviour</p>
         <a
           className="App-link"
           href="https://reactjs.org"
